@@ -13,6 +13,7 @@ var quotes = [
   {
     quote: "The way to get started is to quit talking and begin doing",
     source: "Walt Disney",
+    year: 1943, //probably not accurate.  Could not find year or citation for most of these quotes added for expectations and to show that the code works
   },
   {
     quote: "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
@@ -29,6 +30,7 @@ var quotes = [
   {
     quote: "Humility is the solid foundation of all the virtues.",
     source: "Confucius",
+    citation: "confuciussays.com", //see Walt Disney's quote note.
   },
 ]
 
